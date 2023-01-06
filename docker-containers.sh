@@ -32,5 +32,5 @@ sudo docker pull emqx
 sudo docker pull api-firewall
 sudo docker pull google/cloud-sdk
 sudo docker pull amazon/dynamodb-local
-docker pull amazon/aws-cli
-docker pull gitlab/gitlab-ce
+sudo docker pull amazon/aws-cli
+sudo docker pull gitlab/gitlab-ce
