@@ -33,3 +33,4 @@ sudo docker pull api-firewall
 sudo docker pull google/cloud-sdk
 sudo docker pull amazon/dynamodb-local
 docker pull amazon/aws-cli
+docker pull gitlab/gitlab-ce
