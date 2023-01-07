@@ -34,3 +34,5 @@ sudo docker pull google/cloud-sdk
 sudo docker pull amazon/dynamodb-local
 sudo docker pull amazon/aws-cli
 sudo docker pull gitlab/gitlab-ce
+sudo docker pull gcc
+sudo docker pull kalilinux/kali-rolling
